@@ -1,10 +1,11 @@
 # React-MUI-SASS Package: A Comprehensive React, Vite, and TypeScript Setup
 
-The React-MUI-SASS package provides a sophisticated setup for React projects, incorporating MUI, SASS, React Query, TypeScript, and Vite. This setup is complemented by enhanced ESLint and Prettier configurations and TypeScript type aliases, ensuring a robust development environment.
+The React-MUI-SASS package provides a sophisticated setup for React projects, incorporating React Router, MUI, SASS, React Query, TypeScript, and Vite. This setup is complemented by enhanced ESLint and Prettier configurations and TypeScript type aliases, ensuring a robust development environment.
 
 ## Key Technologies
 
 - **React**: For building dynamic user interfaces.
+- **React Router**: For client-side routing and navigation.
 - **MUI (Material-UI)**: A React UI framework for faster, easier web development.
 - **SASS**: A CSS preprocessor for writing maintainable, extendable styles.
 - **React Query**: A powerful tool for fetching, caching, and updating asynchronous data in React.
